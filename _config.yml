@@ -1,0 +1,8 @@
+title: WalrusRPG
+description: An RPG Modpack with all the fun stuff. SUPPORTS JAVA 8
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
