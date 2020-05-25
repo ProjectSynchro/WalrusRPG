@@ -3,6 +3,8 @@ An RPG Modpack with all the fun stuff, I am currently in the process of restruct
 
 As it stands it is a tech/magic modpack with a lot of exploration options. Tale of Kingdoms was the main centre of this pack, and I will attempt to incorporate it in the same fashion.
 
+Download MultiMC instance releases [here](https://github.com/ProjectSynchro/WalrusRPG/releases) 
+
 Currently includes the following:
 
 | Name                         	| Version              	| Link                                                           	|
