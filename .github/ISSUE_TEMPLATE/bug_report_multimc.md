@@ -2,7 +2,7 @@
 name: Bug report for MultiMC instance
 about: Create a report to help us improve releasing via MultiMC
 title: ''
-labels: bug multimc
+labels: multimc
 assignees: ProjectSynchro
 
 ---
