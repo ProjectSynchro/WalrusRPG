@@ -1,7 +1,7 @@
 title: WalrusRPG
-description: An RPG Modpack with all the fun stuff. SUPPORTS JAVA 8
+description: A tech/magic modpack with a lot of exploration options, featuring Tale of Kingdoms.
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-cayman
 
 gems:
