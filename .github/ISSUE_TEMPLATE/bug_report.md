@@ -28,5 +28,8 @@ If applicable, add screenshots to help explain your problem.
  - Installed Java Version [e.g. Java 8, Java 11]
  - Modpack Version [e.g. 3.2.0]
 
+**Associated Crash Logs**
+Please add any crashlogs from crashes you have experienced here.
+
 **Additional context**
 Add any other context about the problem here.
